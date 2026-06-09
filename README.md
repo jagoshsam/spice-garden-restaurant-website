@@ -4,7 +4,7 @@ A modern and responsive restaurant landing page.
 
 ## 🚀 Live Demo
 
-🌐 https://your-vercel-link.vercel.app
+🌐 https://spice-garden-restaurant-website.vercel.app/
 
 ## 📸 Preview
 
